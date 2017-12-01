@@ -31,7 +31,6 @@ function decks (state = initialDecks, action) {
 			}
 		case NEW_CARD :
 			const { card, deck } = action
-			console.log(state)
 			return {
 				...state,
 				[deck.title]: {
