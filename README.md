@@ -8,5 +8,5 @@ Built using [create-react-native-app](https://github.com/react-community/create-
 1. Install [Expo](https://expo.io/) on your mobile device
 1. Download or clone this repository
 2. Run `npm install`
-3. Run `node start`
+3. Run `npm start`
 4. Open the app with Expo using the QR Code or use the native emulator of your choice.
